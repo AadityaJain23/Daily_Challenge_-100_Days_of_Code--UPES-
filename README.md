@@ -1,2 +1,0 @@
-# -Daily-Challenge-100-Days-of-Code-UPES-
-#100DaysofCode
