@@ -12,7 +12,7 @@ int main(){
     Area=l*b;
     Perimeter=2*(l+b);
 
-    printf("Area of rectangle is %d cm^2 \n",Area);
+    printf("Area of rectangle is %d cm^2\n",Area);
     printf("Perimeter of rectangle is %d cm ",Perimeter);
 
     return 0;
